@@ -52,7 +52,7 @@ printMovieTitles(movies);
 
 
 /******************************
-✅ Q3) Create a function that accepts:
+✅ Q2) Create a function that accepts:
  - an array of movies
  - a year
 and returns how many movies were released in that year.
@@ -63,7 +63,7 @@ console.log(countMoviesByYear(movies, 1994)); // Output: 3
 
 
 /******************************
-✅ Q4) Create a function that:
+✅ Q3) Create a function that:
  - accepts an array of movies
  - a title
  - a new genre
